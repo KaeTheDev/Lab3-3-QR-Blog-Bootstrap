@@ -12,3 +12,9 @@ body {
 .card-thumbnail {
     width: 16rem;
 }
+
+.card-badge {
+    background-color: #f4d04e;
+    width: 73px;
+    height: 25px;
+}
