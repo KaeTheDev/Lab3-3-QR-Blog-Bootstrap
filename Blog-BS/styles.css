@@ -8,3 +8,7 @@ body {
     width: 300px;
     height: 450px;
 }
+
+.card-thumbnail {
+    width: 16rem;
+}
