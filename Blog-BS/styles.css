@@ -18,3 +18,12 @@ body {
     width: 73px;
     height: 25px;
 }
+
+.card-title {
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.card-title:hover {
+    color: #f4d04e;
+    transform: scale(1.05);
+}
