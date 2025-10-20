@@ -3,3 +3,8 @@ body {
     min-height: 100vh;
     font-family: 'Figtree', sans-serif;
 }
+
+.card-container {
+    width: 300px;
+    height: 450px;
+}
