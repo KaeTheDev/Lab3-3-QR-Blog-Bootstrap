@@ -12,3 +12,15 @@ body {
     width: 288px;
     height: 288px;
 }
+
+.regular-text, .bold-text {
+    font-family: "Outfit", sans-serif;
+}
+
+.regular-text {
+    color: hsl(216, 15%, 48%);
+}
+
+.bold-text {
+    color: rgb(31, 49, 79);
+}
