@@ -27,3 +27,8 @@ body {
     color: #f4d04e;
     transform: scale(1.05);
 }
+
+.card-author__avatar {
+    width: 25px;
+    height: 25px;
+}
