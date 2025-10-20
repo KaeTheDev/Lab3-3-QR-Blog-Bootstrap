@@ -1,7 +1,6 @@
 body {
-    background-color: #f4d04e;
+    background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
-    font-family: 'Figtree', sans-serif;
 }
 
 .qr-card {
